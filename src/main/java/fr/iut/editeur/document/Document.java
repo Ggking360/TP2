@@ -34,6 +34,9 @@ public class Document {
         text = text.toUpperCase();
         this.remplacer(start,end,text);
     }
+    public void clear() {
+        texte = "e";
+    }
 
     @Override
     public String toString() {
