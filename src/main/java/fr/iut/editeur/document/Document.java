@@ -35,7 +35,7 @@ public class Document {
         this.remplacer(start,end,text);
     }
     public void clear() {
-        texte = "e";
+        texte = "";
     }
 
     @Override
