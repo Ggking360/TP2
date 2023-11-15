@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/ann2/ramn/IdeaProjects/editeur-de-texte/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'EditeurDeTexte 0.0.1 API'
+-use
+-version
+-windowtitle
+'EditeurDeTexte 0.0.1 API'
+fr.iut.editeur.commande
+fr.iut.editeur.commande.invoker
+fr.iut.editeur.commande.factory
+fr.iut.editeur
+fr.iut.editeur.document
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/src/main/java = 1699522016719
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs/help-doc.html = 1700036095475
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs/module-search-index.js = 1700036095459
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs/index-all.html = 1700036095471
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs/index.html = 1700036095439
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs/allclasses-index.html = 1700036095455
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs/package-search-index.js = 1700036095459
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs/jquery-ui.overrides.css = 1700036095495
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs/stylesheet.css = 1700036095479
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs/tag-search-index.js = 1700036095463
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs/overview-summary.html = 1700036095471
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs/overview-tree.html = 1700036095435
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs/search.js = 1700036095483
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs/allpackages-index.html = 1700036095455
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs/member-search-index.js = 1700036095463
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs/type-search-index.js = 1700036095459
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs/script.js = 1700036095479
+/home/ann2/ramn/IdeaProjects/editeur-de-texte/target/site/apidocs/element-list = 1700036095347
