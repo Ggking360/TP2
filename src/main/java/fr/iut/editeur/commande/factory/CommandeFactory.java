@@ -16,6 +16,14 @@ public class CommandeFactory {
 
     private CommandeFactory() {}
 
+    /**
+     * appelle les diferentes commandes et les execute
+     * @param name nom de la commande
+     * @param document les documents
+     * @param parameters les diferents parametres possible
+     * @return
+     */
+
     public Commande createCommand(String name, Document document, String[] parameters) {
         switch (name) {
             case "ajouter" : return new CommandeAjouter(document, parameters);
